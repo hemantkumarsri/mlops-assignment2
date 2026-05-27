@@ -1,0 +1,15 @@
+transformers==4.52.4
+huggingface_hub==0.33.5
+tokenizers==0.21.1
+accelerate==1.8.1
+datasets
+evaluate
+wandb
+scikit-learn
+gdown
+torch
+numpy
+pandas
+matplotlib
+seaborn
+requests
