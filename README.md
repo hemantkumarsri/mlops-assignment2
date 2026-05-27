@@ -7,7 +7,7 @@ This project implements an end-to-end MLOps workflow for fine-tuning a Hugging F
 - GitHub Repository: https://github.com/hemantkumarsri/mlops-assignment2
 - Kaggle Notebook: https://www.kaggle.com/code/hemantkumarsri/mlops-assignment-2-fine-tuning-classification-k
 - Hugging Face Model: https://huggingface.co/hemantkumarsri/distilbert-goodreads-genres
-- W&B Dashboard: https://wandb.ai/hemantkumarsri-mlops/mlops-assignment2
+- W&B Report: https://wandb.ai/hemantkumarsri-mlops/mlops-assignment2/reports/mlops-assignment2-report--VmlldzoxNzAzMjM5MA
 
 ## Model
 
